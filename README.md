@@ -3,7 +3,7 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 
 Features
 Responsive Design for all devices.
-Project Showcase with descriptions and links
+Project Showcase(will upload description)
 
 Contact Me to connect with me.
 
