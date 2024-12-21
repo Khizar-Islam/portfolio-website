@@ -1,5 +1,5 @@
 My Portfolio
-Welcome to my personal portfolio! This project showcases my skills, projects, and experience as a developer.
+Welcome to my personal portfolio! This project showcases my skills, projects, and experience as a developer. Its my first project after learning the basics so dont go too hard on me
 
 Features
 Responsive Design for all devices.
